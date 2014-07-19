@@ -12,3 +12,4 @@ package main;
 public interface IRezept {
 	public String getName();
 }
+
